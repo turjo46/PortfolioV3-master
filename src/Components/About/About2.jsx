@@ -30,7 +30,7 @@ const About2 = () => {
             <div className="relative w-full md:w-1/2 flex justify-center items-center">
               {/* Image */}
               <img
-                src="https://i.postimg.cc/L6p2kcVY/image-1.png" // replace this with your image path
+                src="https://i.postimg.cc/nrPXznL0/aboutImg.png" // replace this with your image path
                 alt="Profile"
                 className="rounded-xl object-cover shadow-lg lg:h-[560px] h-96 "
                 style={{ width: "", height: "" }}
