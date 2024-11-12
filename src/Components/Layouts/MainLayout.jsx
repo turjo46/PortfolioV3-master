@@ -9,6 +9,7 @@ import Gallery from "../gallery/Gallery";
 import Project from "../Event/Project";
 
 import ScrollToTopButton from "../ScrollButton/ScrollButton";
+import AutoSlidingGallery from "../../AutoSlidingGallery";
 
 const MainLayout = () => {
   return (
@@ -23,6 +24,7 @@ const MainLayout = () => {
       <Contact></Contact>
       <Footer></Footer>
       <ScrollToTopButton></ScrollToTopButton>
+      <AutoSlidingGallery/>
     </div>
   );
 };
