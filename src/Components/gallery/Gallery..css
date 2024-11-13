@@ -1,0 +1,10 @@
+/* Optional: Add in your main CSS or as inline styles */
+.mySwiper {
+    max-width: 800px;
+    height: 400px;
+  }
+  
+  .mySwiper .swiper-pagination-bullet-active {
+    background-color: #1e3a8a; /* Tailwind's blue-900 */
+  }
+  
